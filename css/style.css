@@ -1,0 +1,8 @@
+/* CSS Document */
+
+#wrapper			{width:960px; margin:0 auto}
+.btn				{width:150px; text-align:center; background:#333; display:block; padding:10px 0px 10px 0px; text-decoration:none; color:#fff;
+					 float:left;}
+.btn:hover			{background:#000;}
+#search_name		{border:none;}
+.clear0				{clear:both; margin:0; height:0;}
